@@ -8,6 +8,8 @@ This Project should visualise the exponential smoothing with Holt and Holt-Winte
 This jupyter Notebook should help to understand the impact of alpha, beta and gamma for the Holt-Winters-Forecast.
 It creates an interactive plot with salesdata with the Holt-Forecast as well as the Holt-Winters-Forecast.
 
+![example use picture](pictures/example.png)
+
 
 <!-- LICENSE -->
 ## License
@@ -17,5 +19,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-private - wesingerluis@gmail.com
-edu     - luis.wesinger@st.oth-regensburg.de
+private - wesingerluis@gmail.com  
+edu     - luis.wesinger@st.oth-regensburg.de  
+
+Github Repository       - https://github.com/luiswesinger/Holt-Winters-Verfahren
