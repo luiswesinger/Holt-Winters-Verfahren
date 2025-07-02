@@ -10,6 +10,11 @@ It creates an interactive plot with salesdata with the Holt-Forecast as well as 
 
 ![example use picture](pictures/example.png)
 
+<!-- BUILT WITH-->
+## Built with
+
+* [![Jupyter Logo][Jupyter.com]][Jupyter-url]
+
 
 <!-- LICENSE -->
 ## License
@@ -19,7 +24,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-private - wesingerluis@gmail.com  
-edu     - luis.wesinger@st.oth-regensburg.de  
+* [private E-Mail](wesingerluis@gmail.com  )
+* [Edu - Mail](luis.wesinger@st.oth-regensburg.de  )
+* [Github Repository](https://github.com/luiswesinger/Holt-Winters-Verfahren)
 
-Github Repository       - https://github.com/luiswesinger/Holt-Winters-Verfahren
+<!-- MARKDOWN LINKS-->
+[Jupyter.com]:https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white
+[Jupyter-url]:https://jupyter.org/
